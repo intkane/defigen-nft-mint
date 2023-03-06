@@ -1,6 +1,6 @@
 {
   "CONTRACT_ADDRESS": "0xD79BC97f8b3Cf991304Fe3A76e28cDac2Ff12b70",
-  "SCAN_LINK": "https://explorer.alt.technology/?network=https%3A%2F%2Fdefigene2841a8-alt-producer-rpc.alt.technology&rpcUrl=https%3A%2F%2Fdefigene2841a8-alt-producer-rpc.alt.technology",
+  "SCAN_LINK": "https://explorer.alt.technology?rpcUrl=https://defigene2841a8-alt-producer-rpc.alt.technology",
   "NETWORK": {
     "NAME": "Defigen",
     "SYMBOL": "DEF",
@@ -9,9 +9,9 @@
   "NFT_NAME": "Man in glasses",
   "SYMBOL": "MIG",
   "MAX_SUPPLY": 99,
-  "WEI_COST": 4000000000000000000,
+  "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/altlayer-og-badge-nft",
   "SHOW_BACKGROUND": true
